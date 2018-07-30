@@ -12,7 +12,7 @@ In the National Museum of Colombo there rests one of the oldest, and arguably mo
 
 The sign accompanying the exhibit identifies it as object number NM-2995 69L1. The manuscript consists of 143 palm leaves in good preservation. It was acquired by the National Museum on the recommendation of Senarath Paranavitana, who made the initial identification of the king with Dutiya-Parakkamabāhu. The cover of the book is wood painted with depictions of deities, in a style similar to those of the Polonnaruva period. For further details one is referred to H.C.R. Bell, Annual Report 1901, Department of Archaeology.
 
-The manuscript itself includes a note ([HPIM4634](/images/dpcv-microfilm/HPIM4634.jpeg), [HPIM4635](/images/dpcv-microfilm/HPIM4635.jpeg)) to the effect that the manuscript consists of 144 leaves, sized 23ʹ×2 ¼ʹ. It was purchased for Rs 1000 along with 38 other manuscripts from the late Mr. H.C.P. Bell’s estate on 12/1/1938.
+The manuscript itself includes a note ([HPIM4634](https://github.com/dpcv/dpcv-images/blob/master/images/dpcv-microfilm/HPIM4634.jpeg), [HPIM4635](https://github.com/dpcv/dpcv-images/blob/master/images/dpcv-microfilm/HPIM4635.jpeg)) to the effect that the manuscript consists of 144 leaves, sized 23ʹ×2 ¼ʹ. It was purchased for Rs 1000 along with 38 other manuscripts from the late Mr. H.C.P. Bell’s estate on 12/1/1938.
 
 The colophon in the manuscript says that it was copied during the reign of Parākramabāhu, identified as the second of that name, which would place it in the 13th century. This makes it probably the oldest manuscript in Sri Lanka, and one of the oldest in the world. The only older published Pali manuscript I am aware of is from Nepal, dated to the 8th or 9th century, and consisting of a few pages, coincidentally, also of the Cullavagga.
 
@@ -40,7 +40,7 @@ The aim of the project is to make available to scholars internationally the cont
 
 To accomplish this will require the cooperation and goodwill of scholars, governmental organizations, and universities.
 
-Images and files are currently hosted [on my Github repo](https://github.com/sujato/cullavagga).
+Images and files are hosted [on a dedicated Github account](https://github.com/dpcv).
 
 ## Some details and terminology
 
@@ -90,7 +90,7 @@ For a discussion of issues regarding the state of Pali manuscripts in Sri Lanka,
 
 While we are not prepared to undertake the more wide-scale digital preservation envisaged by Bhikkhu Nyanatusita, by preserving and published DP-CV we can, perhaps, stimulate interest and further action.
 
-One of the few early Pali texts in existence was studied and published by Oskar von Hinüber in his *[The Oldest Buddhist Manuscript](/related-essays/Hinuber_Oldest_Pali_Manuscript.pdf)*. This offers a transcription, description, and detailed study of a 8th–9th century Pali manuscript from Nepal by a leading Indological philologist. Von Hinüber suggests that it may have derived from a branch monastery of the Mahāvihāra on the mainland, possibly at Bodhgaya.
+One of the few early Pali texts in existence was studied and published by Oskar von Hinüber in his *[The Oldest Pali Manuscript](https://github.com/dpcv/cullavagga/blob/master/related-essays/Hinuber_Oldest_Pali_Manuscript.pdf)*. This offers a transcription, description, and detailed study of a 8th–9th century Pali manuscript from Nepal by a leading Indological philologist. Von Hinüber suggests that it may have derived from a branch monastery of the Mahāvihāra on the mainland, possibly at Bodhgaya.
 
 As it happens, the text itself, while only a few pages, is from the Cullavagga. Thus it is a small portion of the same text found in the DP-CV, and when the DP-CV is published it will enable a study of the  same passage in manuscripts of the 8th, 13th, and 18th centuries. SuttaCentral has completed a digitization of this text, which we have named the Bendall Cullavagga (`bendall-cv`), which can be [viewed on Github](https://github.com/sujato/bendall-cv). This was intended as a pilot project to test and demonstrate some of the methods we are proposing for DC-CV.
 
@@ -102,7 +102,7 @@ This manuscript has been mentioned a number of times in published articles.
 
 The initial report of the discovery is said (in the sign on the exhibit) to have been posted by H.C.R. Bell in the Department of Archaeology’s Annual Report of 1901. Unfortunately, this edition of the Report does not seem to be available online. We should ascertain whether a copy of this Report exists at the Department, and if possible have it scanned and uploaded.
 
-The manuscript is discussed in fair detail in P.E.E. Fernando’s excellent *[A Note on Three Old Sinhalese Palm Leaf manuscripts](/related-essays/Fernando_Three_Old_Sinhalese_Manuscripts.pdf)* (1982). Fernando confirms, on the basis of epigraphic analysis and historical context, Paranavitana’s conclusion that the manuscript was copied in the reign of Parākramabāhu II of Dambadeṇiya, and is definitely later than the Polonnaruwa period. He analyzes some details of the script, which may be useful for our typists. He also discusses the identification of the people and places mentioned in the colophon. The Konduruvā forest is in the vicinity of Dambadeṇiya in the North-Western Province, while Beligala is about 25km south-east of Dambadeṇiya.
+The manuscript is discussed in fair detail in P.E.E. Fernando’s excellent *[A Note on Three Old Sinhalese Palm Leaf manuscripts](https://github.com/dpcv/cullavagga/blob/master/related-essays/Fernando_Three_Old_Sinhalese_Manuscripts.pdf)* (1982). Fernando confirms, on the basis of epigraphic analysis and historical context, Paranavitana’s conclusion that the manuscript was copied in the reign of Parākramabāhu II of Dambadeṇiya, and is definitely later than the Polonnaruwa period. He analyzes some details of the script, which may be useful for our typists. He also discusses the identification of the people and places mentioned in the colophon. The Konduruvā forest is in the vicinity of Dambadeṇiya in the North-Western Province, while Beligala is about 25km south-east of Dambadeṇiya.
 
 Fernando discusses the colophon, which poses a number of problems of interpretation, and offers the following translation:
 
@@ -192,7 +192,7 @@ From the extant microfilms, it appears as if the majority of the text is quite r
 
 The manuscript must be scanned carefully by qualified staff using good quality modern equipment.
 
-There is a microfilm of the manuscript, but this is not a good solution. Microfilm is an outdated technology, and it is difficult to find equipment to use it. In addition, while the microfilmed images are reasonably good, they will not be of quality comparable to that of modern scans. In the [images](https://github.com/sujato/cullavagga/tree/master/images) folder of the Github repository for this project you can see a set of images made from the microfilms, made by Bhikkhu Nyanatusita. While the images are of good quality, the limitations of the source are readily apparent. Compare the quality of a microfilmed image with that of a manuscript image.
+There is a microfilm of the manuscript, but this is not a good solution. Microfilm is an outdated technology, and it is difficult to find equipment to use it. In addition, while the microfilmed images are reasonably good, they will not be of quality comparable to that of modern scans. In the [dpcv-images](https://github.com/dpcv/dpcv-images) folder of the Github repository for this project you can see a set of images made from the microfilms, made by Bhikkhu Nyanatusita. While the images are of good quality, the limitations of the source are readily apparent. Compare the quality of a microfilmed image with that of a manuscript image.
 
 ![alt text](/dpcv-project-files/microfilm-sample.jpeg "Microfilm image of one leaf of DP-CV")
 
@@ -391,7 +391,7 @@ That’s all that is required to create a new digitized edition. There is no nee
 
 As mentioned above, I recommend having the source text typed twice by independent workers. Then the two versions can be “diffed” and the differences resolved. If you’re not familiar with how diffing works, here is a sample from two editions of the Cullavagga: on the left the 9th century Nepalese manuscript (Bendall CV) and on the right the text from the Mahāsaṅgīti edition.
 
-![alt text](/dpcv-project-files/bendall-cv-ms-diff.png "Ratana Sutta diff")
+![alt text](/dpcv-project-files/bendall-cv-ms-diff.png "Cullavagga diff")
 
 The diff engine compares the two texts and highlights any differences. This is made easy when using a segmented text, as the differences are kept to each pair of lines.
 
@@ -423,9 +423,10 @@ I believe that the methods set forth here will achieve an accurate and usable te
 
 ## Bibliography
 
-- Allon, M., Salomon, R., Jacobsen, G., Zoppi, U. (2007). “*Radiocarbon Dating of Kharosthi Fragments from the Schøyen and Senior Manuscript Collections*”. In Jens Braarvig (Eds.), *Buddhist Manuscripts in the Schøyen Collection*, vol. iii: pp. 279–291. Oslo, Norway: Hermes Publishing.
-- De Silva, W.A.. *Catalogue of Palm Leaf Manuscripts*, Colombo 1938, No. 2363
-- Fernando, P. E. E. 1982. “*Note on Three Old Sinhalese Palm Leaf manuscripts*”, The Sri Lanka Journal of the Humanities 8, no. 1/2: 146–157.
-- Lancaster, Lewis. “*Digital Input of Buddhist Texts*” in Damien Keown, Charles S. Prebish, *Encyclopedia of Buddhism*, pp 288–296, Routledge 2013.
+- Allon, M., Salomon, R., Jacobsen, G., Zoppi, U. “*Radiocarbon Dating of Kharosthi Fragments from the Schøyen and Senior Manuscript Collections*”. In Jens Braarvig (Eds.), *Buddhist Manuscripts in the Schøyen Collection*, vol. iii: pp. 279–291. Oslo, Norway: Hermes Publishing, 2007.
+- De Silva, W.A. *Catalogue of Palm Leaf Manuscripts*, Colombo 1938, No. 2363
+- Fernando, P. E. E. “*Note on Three Old Sinhalese Palm Leaf manuscripts*”, The Sri Lanka Journal of the Humanities 8, no. 1/2: 146–157, 1982.
+- Lancaster, Lewis. “*Digital Input of Buddhist Texts*” in Damien Keown, Charles S. Prebish, *Encyclopedia of Buddhism*, pp 288–296, Routledge, 2013.
 - Nyanatusita, Bhikkhu “*Pali Manuscripts of Sri Lanka*”, in *From Birch Bark to Digital Data: Recent Advances in Buddhist Manuscript Research*. Papers Presented at the Conference “Indic Buddhist Manuscripts: The State of the Field”, Stanford, June 15–19, 2009, edited by Paul Harrison and Jens-Uwe Hartmann, and published by Österreichische Akademie der Wissenschaften Wien in 2014.
 - Sujato, Bhikkhu and Brahmali, Bhikkhu. *The Authenticity of the Early Buddhist Texts*. Oxford Center for Buddhist Studies, 2014.
+- Von Hinüber, Oskar. *The Oldest Pali Manuscript*. Akademie der Wissenschaften und der Literatur, Mainz, 1990.
