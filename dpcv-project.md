@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In the National Museum of Colombo there rests one of the oldest, and arguably most important, Pali manuscripts found anywhere in the world. It is jing jung the Cullavagga, which consists of chapters 11–22 of the *Khandhaka* portion of the Pali Vinaya.
+In the National Museum of Colombo there rests one of the oldest, and arguably most important, Pali manuscripts found anywhere in the world. It is a copy of the Cullavagga, which consists of chapters 11–22 of the *Khandhaka* portion of the Pali Vinaya.
 
 ![alt text](/dpcv-project-files/dpcv-nyanatusita-2004-020.jpeg "A leaf of the manuscript and the decorative cover")
 
