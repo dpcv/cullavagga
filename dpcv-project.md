@@ -84,7 +84,7 @@ Linguistic, historical, and other evidence gives us good reason to be confident 
 
 A further problem is that almost all the Sri Lankan manuscripts stem from texts that were imported from Burma or Thailand around the 18th century. Thus, although Burma and Thailand originally received their texts from Sri Lanka, we have little evidence for a Sri Lankan transmission that has not passed through those countries.
 
-For a discussion of issues regarding the state of Pali manuscripts in Sri Lanka, see Bhikkhu Nyanatusita, *[Pali Manuscripts of Sri Lanka](/related-essays/Pali_Manuscripts_of_Sri_Lanka.pdf)*. He speaks of the importance of a project to preserve and make available the many manuscripts in Sri Lanka, observing that:
+For a discussion of issues regarding the state of Pali manuscripts in Sri Lanka, see Bhikkhu Nyanatusita, *[Pali Manuscripts of Sri Lanka](https://github.com/dpcv/cullavagga/blob/master/related-essays/Pali_Manuscripts_of_Sri_Lanka.pdf)*. He speaks of the importance of a project to preserve and make available the many manuscripts in Sri Lanka, observing that:
 
 > The digital photographs should not be stored in just one institution, where they might be lost, as happened with the microfilms at the National Archives, but should be made freely available on the internet so that any scholar can access them. Also detailed information (description, history, photographs, list of manuscripts) should be given about the monasteries where the manuscripts were photographed.
 
@@ -371,7 +371,25 @@ When our typists are working on the DP-CV, they will keep one window on their co
 
 The text of each manuscript is to be inputted as accurately and literally as possible. There is no editorial input; no corrections, identifications of variants, restoration of text, and the like. Texts are romanized, but without adding punctuation, capitals, or any other features. This keeps the job of the typist as simple as possible.
 
-Some editorial intervention will be necessary, however, in the case of unclear or missing portions of the manuscript. Unclear *akṣaras* can be marked with [brackets] or some similar convention, while missing *akṣaras* can be indicated with +.
+Some editorial intervention will be necessary, however, in the case of unclear or missing portions of the manuscript. We can use a simple set of plain-text marks for this.
+
+Mark | Definition | Note
+---|---|---
+`{--abc--}` | text marked for deletion by a scribe | text crossed out in the manuscript
+`{++abc++}` | text inserted by a scribe | text overwritten or added to the main text in the manuscript
+`{>>abc<<}` | comment  | an editorial note
+`{==abc==}{>>comment<<}` | highlight | for making editorial remarks, etc. (= `<mark>`)
+`{abc}` | unclear text | text damaged to an extent that makes the reading difficult.
+`+` | unreadable akṣara | an akṣara so damaged that it cannot be made out, but a rough count of the number of akṣaras can be made. (`.gap`)
+`{+++}` | a span of unreadable akṣaras | use three plus signs to indicate a span of unreadable akṣaras of undetermined length. (`.gap`)
+`{{+++}}` | a line of unreadable akṣaras | use when the line or part of it is visible but unreadable. (`.gap`)
+`{{---}}` | a missing line | use when an entire line is absent.
+`{^^abc^^}`  | extra text  |  use to mark places where the DP-CV has significantly more text than the reference edition.
+`&` | new line in manuscript | there is no need to write the numbers, they will be calculated later.
+`@` | new page of manuscript | ditto
+`Enter` | means “new segment” | match segments with reference edition
+`෴`  | sign indicating gap | DP-CV frequently fills space with the kunddaliya.
+`(123)`  | reference number in manuscript  | if the manuscript has any reference numbers, enclose them in brackets.
 
 I recommend using the open-source text editor Atom for this process. It can be used on any operating system, and comes with native Github integration (in fact it is built by Github). Whenever the typists save their work it will be automatically synchronized with the central repository on Github. SuttaCentral has created a plugin to enable easy typing of Pali on Atom.
 
@@ -381,11 +399,15 @@ Here is how the text is created.
 
 2. Type exactly what is on the page.
 
-2. At the end of each line in the manuscript, insert an arbitrary glyph, let us say `$`.
+2. At the end of each line in the manuscript, insert `&`.
 
-3. At the end of each page in the manuscript, insert a (different) arbitrary glyph, let us say `#`.
+3. At the end of each page in the manuscript, insert `@`.
 
 4. Text is segmented by adding a new line (i.e. hit `Enter` for each new segment.)
+
+5. If there are segments missing in the manuscript, keep adding new lines until the text resumes and matches the reference edition.
+
+6. If there is extra text in the manuscript which appears to require additional segments, mark it as “extra text”.
 
 That’s all that is required to create a new digitized edition. There is no need to write line and page numbers in the text; they can be calculated at the end of the project.
 

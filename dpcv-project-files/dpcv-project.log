@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.6.2)  28 JUL 2018 08:52
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.6.2)  30 JUL 2018 18:02
  restricted system commands enabled.
 **dpcv-project.tex
 (./dpcv-project.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.096 seconds
+luaotfload | main : initialization completed in 0.117 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -1032,14 +1032,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(50.58878pt, 319.92323pt, 50.58878pt)
-* v-part:(T,H,B)=(50.58878pt, 496.33032pt, 50.58878pt)
+* v-part:(T,H,B)=(72.26999pt, 452.9679pt, 72.26999pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
 * \textwidth=319.92323pt
-* \textheight=496.33032pt
+* \textheight=452.9679pt
 * \oddsidemargin=-21.68121pt
 * \evensidemargin=-21.68121pt
-* \topmargin=-58.68121pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1344,7 +1344,7 @@ own}" on input line 100.
 Package markdown Info: The ending token sequence was found on input line 532.
 Package markdown Info: Including markdown document "dpcv-project.markdown.in" on
  input line 532.
- (./_markdown_dpcv-project/fc8b52224550063f1221e411f436f2dc.md.tex [2]
+ (./_markdown_dpcv-project/8884da47527fdcdc6fddc6cf109b19ee.md.tex [2]
 <dpcv-nyanatusita-2004-020.jpeg, id=149, 628.2672pt x 285.4665pt>
 File: dpcv-nyanatusita-2004-020.jpeg Graphic file (type jpg)
 <use dpcv-nyanatusita-2004-020.jpeg>
@@ -1361,204 +1361,229 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-[3
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/dpcv/dpcv-[]images/blob
+/master/images/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/dpcv/dpcv-[]images/blob
+/master/images/
+ []
+
+[3<./dpcv-nyanatusita-2004-020.jpeg>] [4
 Missing character: There is no ʹ (U+02B9) in font SkolarPE:mode=node;script=lat
 n;language=DFLT;+tlig;+onum;!
 Missing character: There is no ʹ (U+02B9) in font SkolarPE:mode=node;script=lat
 n;language=DFLT;+tlig;+onum;!
-<./dpcv-nyanatusita-2004-020.jpeg>] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$http://gretil.sub.uni-[]goettingen.de/gret
 il/2_pali/3_
  []
 
 
-Overfull \hbox (1.62672pt too wide) in paragraph at lines 26--26
+Overfull \hbox (1.62672pt too wide) in paragraph at lines 25--25
 \TU/SkolarPE(0)/m/n/10.95 Since the manuscript is said to have been spon-sored 
 by King Parākram-
  []
 
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/bx/n' will be
-(Font)              scaled to size 10.90437pt on input line 28.
+(Font)              scaled to size 10.90437pt on input line 27.
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--30
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$http://gretil.sub.uni-[]goettingen.de/gret
 il/2_pali/3_
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--30
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$http://gretil.sub.uni-[]goettingen.de/gret
 il/2_pali/3_
  []
 
 
-Overfull \hbox (4.52158pt too wide) in paragraph at lines 30--30
+Overfull \hbox (4.75359pt too wide) in paragraph at lines 29--29
 \TU/SkolarPE(0)/m/n/10.95 stan-dard, in the Dī-pavaṁsa II[] and the Mahā-va
 ṁsa[] the form \TU/SkolarPE(0)/m/it/10.95 parakkam-
  []
 
 [5]
-<khandhaka-structure.png, id=176, 175.3752pt x 72.7518pt>
+<khandhaka-structure.png, id=179, 175.3752pt x 72.7518pt>
 File: khandhaka-structure.png Graphic file (type png)
 <use khandhaka-structure.png>
-Package luatex.def Info: khandhaka-structure.png  used on input line 34.
+Package luatex.def Info: khandhaka-structure.png  used on input line 33.
 (luatex.def)             Requested size: 318.67078pt x 132.21861pt.
- [6<./khandhaka-structure.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$http://0-[]www.worldcat.org.novacat.nova.e
 du/identities/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$http://0-[]www.worldcat.org.novacat.nova.e
 du/identities/
  []
 
-
-Overfull \hbox (0.37914pt too wide) in paragraph at lines 44--44
+[7<./khandhaka-structure.png>]
+Overfull \hbox (0.37914pt too wide) in paragraph at lines 43--43
 \TU/SkolarPE(0)/m/n/10.95 the prob-lem of manuscript au-then-tic-ity. Al-most a
 ll of the manuscripts
  []
 
-[7] [8]
-Overfull \hbox (0.67215pt too wide) in paragraph at lines 53--53
-\TU/SkolarPE(0)/m/n/10.95 This of-fers a tran-scrip-tion, de-scrip-tion, and de
--tailed study of a 󰄽th–󰄾th
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/dpcv/cullavagga/blob/ma
+ster/
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/dpcv/cullavagga/blob/ma
+ster/
  []
 
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 10.90437pt on input line 54.
+(Font)              scaled to size 10.90437pt on input line 53.
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[][]\TU/SourceCodePro(0)/m/n/9 <[][]$/related-[]essays/Fernando_Three_Old_Sinha
-lese_
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/dpcv/cullavagga/blob/ma
+ster/
  []
 
-[10]
-Overfull \hbox (7.09146pt too wide) in paragraph at lines 70--71
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\TU/SourceCodePro(0)/m/n/9 related-[]essays/Fernando_Three_Old_Sinhalese_Manusc
+ripts.
+ []
+
+[10] [11]
+Overfull \hbox (7.09146pt too wide) in paragraph at lines 69--70
 \TU/SkolarPE(0)/m/n/10.95 since 󰄶󰄾󰄵󰄶. We have had pre-lim-i-nary di
 s-cus-sions with Mrs. Sanuja
  []
 
-[11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://www.publicknowledge.org/files/TPP\
 char`[]%
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://papers.ssrn.com/sol3/papers.cfm?ab
 stract_id=
  []
 
-<heald-graph.jpg, id=234, 570.55263pt x 308.09842pt>
+<heald-graph.jpg, id=245, 570.55263pt x 308.09842pt>
 File: heald-graph.jpg Graphic file (type jpg)
 <use heald-graph.jpg>
-Package luatex.def Info: heald-graph.jpg  used on input line 96.
+Package luatex.def Info: heald-graph.jpg  used on input line 95.
 (luatex.def)             Requested size: 318.67078pt x 172.08731pt.
-[14<./heald-graph.jpg>]
-Overfull \hbox (3.29875pt too wide) in paragraph at lines 100--101
+
+Overfull \hbox (3.29875pt too wide) in paragraph at lines 99--100
 []\TU/SkolarPE(0)/bx/n/10.95 All text, im-ages, and other re-sources cre-ated b
 y this project
  []
 
 
-Overfull \hbox (1.0978pt too wide) in paragraph at lines 100--101
+Overfull \hbox (1.0978pt too wide) in paragraph at lines 99--100
 \TU/SkolarPE(0)/bx/n/10.95 should be ex-plic-itly ded-i-cated to the Pub-lic Do
 -main via Cre-
  []
 
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/sujato/cullavagga/tree/
-master/
- []
-
-<microfilm-sample.jpeg, id=247, 2617.78pt x 496.85625pt>
+[15] [16<./heald-graph.jpg>] [17]
+<microfilm-sample.jpeg, id=262, 2617.78pt x 496.85625pt>
 File: microfilm-sample.jpeg Graphic file (type jpg)
 <use microfilm-sample.jpeg>
-Package luatex.def Info: microfilm-sample.jpeg  used on input line 120.
+Package luatex.def Info: microfilm-sample.jpeg  used on input line 119.
 (luatex.def)             Requested size: 318.67078pt x 60.47687pt.
-<photograph-sample.jpeg, id=248, 2617.78pt x 921.4425pt>
+<photograph-sample.jpeg, id=263, 2617.78pt x 921.4425pt>
 File: photograph-sample.jpeg Graphic file (type jpg)
 <use photograph-sample.jpeg>
-Package luatex.def Info: photograph-sample.jpeg  used on input line 121.
+Package luatex.def Info: photograph-sample.jpeg  used on input line 120.
 (luatex.def)             Requested size: 318.67078pt x 112.1571pt.
-<bad-HPIM4629.jpeg, id=249, 2617.78pt x 469.755pt>
+<bad-HPIM4629.jpeg, id=264, 2617.78pt x 469.755pt>
 File: bad-HPIM4629.jpeg Graphic file (type jpg)
 <use bad-HPIM4629.jpeg>
-Package luatex.def Info: bad-HPIM4629.jpeg  used on input line 123.
+Package luatex.def Info: bad-HPIM4629.jpeg  used on input line 122.
 (luatex.def)             Requested size: 318.67078pt x 57.17813pt.
-[16] [17<./microfilm-sample.jpeg><./photograph-sample.jpeg><./bad-HPIM4629.jpeg>
-] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 143--143
+ [18<./microfilm-sample.jpeg><./photograph-sample.jpeg>] [19<./bad-HPIM4629.jpeg
+>] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$http://www.ansto.gov.au/ResearchHub/OurInf
 rastructure/
  []
 
-[19]
-Overfull \hbox (4.50327pt too wide) in paragraph at lines 151--152
+[21]
+Overfull \hbox (4.50327pt too wide) in paragraph at lines 150--151
 []\TU/SkolarPE(0)/bx/n/10.95 Typ-ing to be un-der-taken by a com-mer-cial typ-i
 ng firm, with
  []
 
-[20] [21] [22]
-<dpcv-modules.png, id=291, 907.39pt x 728.7225pt>
+[22] [23]
+<dpcv-modules.png, id=301, 907.39pt x 728.7225pt>
 File: dpcv-modules.png Graphic file (type png)
 <use dpcv-modules.png>
-Package luatex.def Info: dpcv-modules.png  used on input line 182.
+Package luatex.def Info: dpcv-modules.png  used on input line 181.
 (luatex.def)             Requested size: 318.67078pt x 255.92401pt.
-
-Overfull \hbox (8.84973pt too wide) in paragraph at lines 185--185
+ [24]
+Overfull \hbox (8.84973pt too wide) in paragraph at lines 184--184
 []\TU/SkolarPE(0)/m/n/10.95 Con-sider our source manuscript. It tells us it was
  copied by Sumedha
  []
 
-[23<./dpcv-modules.png>] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[25<./dpcv-modules.png>] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/sujato/bendall-[]cv/com
 mit/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/sujato/bendall-[]cv/gra
 phs/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 [][]\TU/SourceCodePro(0)/m/n/9 <[][]$https://github.com/sujato/bendall-[]cv/gra
 phs/
  []
 
-[25]
-Overfull \hbox (0.19258pt too wide) in paragraph at lines 197--198
+[27]
+Overfull \hbox (0.19258pt too wide) in paragraph at lines 196--197
 []\TU/SkolarPE(0)/bx/n/10.95 All dig-i-tal as-sets of the project—in-clud-ing
  text, im-ages, re-
  []
 
-[26
+[28] [29
 Missing character: There is no ​ (U+200B) in font SourceCodePro:mode=node;scri
 pt=latn;language=DFLT;!
-] [27] [28]
-<bendall-cv-ms-diff.png, id=326, 449.5194pt x 164.5347pt>
+] [30]
+<bendall-cv-ms-diff.png, id=340, 449.5194pt x 164.5347pt>
 File: bendall-cv-ms-diff.png Graphic file (type png)
 <use bendall-cv-ms-diff.png>
-Package luatex.def Info: bendall-cv-ms-diff.png  used on input line 231.
+Package luatex.def Info: bendall-cv-ms-diff.png  used on input line 230.
 (luatex.def)             Requested size: 318.67078pt x 116.64468pt.
- [29<./bendall-cv-ms-diff.png>]
-Overfull \hbox (10.12529pt too wide) in paragraph at lines 242--243
+ [31] [32<./bendall-cv-ms-diff.png>]
+Overfull \hbox (10.12529pt too wide) in paragraph at lines 241--242
 \TU/SkolarPE(0)/m/n/10.95 in 󰄶󰄹󰄶󰄷 CE by Maṅ-gala Thera of Sunē-t
 ra Dēvi Pirivena of Pepiliyana.
  []
 
-[30] [31])
+[33]
+Overfull \hbox (14.11456pt too wide) in paragraph at lines 251--252
+[]\TU/SkolarPE(0)/m/n/10.95 Fer-nando, P. E. E. “\TU/SkolarPE(0)/m/it/10.95 N
+ote on Three Old Sin-halese Palm Leaf manuscripts\TU/SkolarPE(0)/m/n/10.95 ”,
+
+ []
+
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 533.
- [32]
+ [34]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 533.
  (./dpcv-project.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 533.
@@ -1575,13 +1600,13 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24141 strings out of 494480
+ 24143 strings out of 494480
  125171,794899 words of node,token memory allocated
- 1082 words of node memory still in use:
-   9 hlist, 2 vlist, 1 rule, 1 local_par, 2 math, 40 glue, 2 kern, 4 penalty, 1 
-glyph, 53 attribute, 58 glue_spec, 53 attribute_list, 1 write, 13 pdf_action nod
+ 1123 words of node memory still in use:
+   9 hlist, 2 vlist, 1 rule, 1 local_par, 2 math, 41 glue, 2 kern, 4 penalty, 1 
+glyph, 57 attribute, 58 glue_spec, 57 attribute_list, 1 write, 16 pdf_action nod
 es
-   avail lists: 2:607,3:201,4:61,5:243,6:2156,7:489,8:110,9:152,10:9,11:162
+   avail lists: 2:599,3:201,4:61,5:238,6:2227,7:489,8:113,9:152,10:10,11:157
  27494 multiletter control sequences out of 65536+600000
  74 fonts using 18264991 bytes
  47i,8n,116p,1404b,537s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1591,10 +1616,10 @@ are/texlive/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCodePro-Regular.
 otf></home/user/.fonts/skolar-all-otf-2018-03-21/SkolarPE-Italic.otf></home/user
 /.fonts/skolar-all-otf-2018-03-21/SkolarSansPE-Sb.otf></home/user/.fonts/skolar-
 all-otf-2018-03-21/SkolarPE-Regular.otf>
-Output written on dpcv-project.pdf (32 pages, 2353497 bytes).
+Output written on dpcv-project.pdf (34 pages, 2354012 bytes).
 
-PDF statistics: 395 PDF objects out of 1000 (max. 8388607)
- 327 compressed objects within 4 object streams
- 69 named destinations out of 1000 (max. 131072)
+PDF statistics: 409 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
+ 71 named destinations out of 1000 (max. 131072)
  209 words of extra memory for PDF output out of 10000 (max. 100000000)
 
